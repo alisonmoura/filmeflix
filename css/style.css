@@ -2,7 +2,18 @@
     width: 100%;
     height: 68px;
     padding: 20px 10px;
-    background-color: rgb(225, 41, 41);
+    background: linear-gradient(to right,RED,
+    ORANGE
+    ,
+    YELLOW
+    ,
+    GREEN
+    ,
+    BLUE
+    ,
+    INDIGO
+    ,
+    VIOLET);
     color: white;
     display: flex;
     align-items: center;
