@@ -73,33 +73,3 @@ h2{
 }
 body{
     background: black;
-=======
-
-.navbar a:hover{
-    color:blue;
-    height:68px;
-}
-
-.main{
-    width:100%;
-    height:400px;
-    background-color:rgb(22, 21, 21);
-    text-align:center;
-    color:white;
-}
-
-.main h2{
-    margin-top:25px;
-}
-
-footer{
-    width:100%;
-    height:175px;
-    background-color:rgb(86, 86, 86);
-}
-
-footer span{
-    display:block;
-    text-align:center;
->>>>>>> e7ce94d790e89060262dee454d05cb597c52ff47
-}
